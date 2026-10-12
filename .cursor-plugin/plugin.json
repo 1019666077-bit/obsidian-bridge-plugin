@@ -1,0 +1,15 @@
+{
+  "name": "obsidian-bridge",
+  "displayName": "Obsidian Bridge",
+  "version": "0.1.0",
+  "description": "Read and search your local Obsidian vault from Cursor. Append work logs and code notes via MCP. Vault path stays on your machine.",
+  "author": {
+    "name": "Moying Studio",
+    "email": "moying.studio@outlook.com"
+  },
+  "homepage": "https://mymoying.com/obsidian",
+  "repository": "https://github.com/1019666077-bit/obsidian-bridge-plugin",
+  "license": "MIT",
+  "keywords": ["obsidian", "notes", "vault", "mcp", "obsidian-bridge", "work-log"],
+  "logo": "assets/logo.svg"
+}

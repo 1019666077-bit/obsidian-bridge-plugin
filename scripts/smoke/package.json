@@ -1,0 +1,8 @@
+{
+  "name": "obsidian-bridge-smoke",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/client": "^2.0.0"
+  }
+}
