@@ -2,7 +2,7 @@
   "name": "obsidian-bridge",
   "displayName": "Obsidian Bridge",
   "version": "0.1.0",
-  "description": "Read and search your local Obsidian vault from Cursor. Append work logs and code notes via MCP. Vault path stays on your machine.",
+  "description": "For Cursor and Grok Bot. Read and search your local Obsidian vault via MCP. Append work logs and code notes. Vault path stays on your machine.",
   "author": {
     "name": "Moying Studio",
     "email": "moying.studio@outlook.com"

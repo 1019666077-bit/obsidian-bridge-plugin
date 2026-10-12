@@ -1,6 +1,8 @@
-# Obsidian Bridge (Cursor plugin)
+# Obsidian Bridge
 
-**Free, MIT.** Connect Cursor to a **local Obsidian vault**: read notes, append work logs, search — all via MCP. Nothing leaves your machine except what you paste in chat.
+**For Cursor and Grok Bot.**
+
+**Free, MIT.** Connect Cursor or Grok Bot to a **local Obsidian vault**: read notes, append work logs, search — all via MCP. Nothing leaves your machine except what you paste in chat.
 
 ## Important
 
@@ -10,7 +12,7 @@ Homepage: https://mymoying.com/obsidian — coming soon.
 
 ## Install
 
-1. Install from Cursor Marketplace (after listing), **or** clone into `~/.cursor/plugins/local/obsidian-bridge` and reload.
+1. Install from Cursor Marketplace / Grok Bot Connect Apps (after listing), **or** clone into `~/.cursor/plugins/local/obsidian-bridge` and reload.
 2. Install **Node.js 22+**.
 3. Set your vault **absolute path** (folder must already contain `.obsidian`):
 
