@@ -7,7 +7,7 @@
     "name": "Moying Studio",
     "email": "moying.studio@outlook.com"
   },
-  "homepage": "https://mymoying.com/obsidian",
+  "homepage": "https://botbridge.dev/obsidian",
   "repository": "https://github.com/1019666077-bit/obsidian-bridge-plugin",
   "license": "MIT",
   "keywords": ["obsidian", "notes", "vault", "mcp", "obsidian-bridge", "work-log"],

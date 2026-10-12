@@ -8,7 +8,7 @@
 
 This marketplace plugin **does not** bundle your vault or Obsidian.app. It starts the local MCP server [obsidian-mcp](https://github.com/1019666077-bit/obsidian-mcp) (MIT fork of [StevenStavrakis/obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp)) with a vault path **you** configure.
 
-Homepage: https://mymoying.com/obsidian — coming soon.
+Homepage: https://botbridge.dev/obsidian — coming soon.
 
 ## Install
 
